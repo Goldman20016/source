@@ -1,0 +1,15 @@
+C:\Users\Harshi\source\repos\goldman internet security pro\bin\Debug\goldman internet security pro.exe.config
+C:\Users\Harshi\source\repos\goldman internet security pro\bin\Debug\goldman internet security pro.exe
+C:\Users\Harshi\source\repos\goldman internet security pro\bin\Debug\goldman internet security pro.pdb
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman internet security pro.csprojAssemblyReference.cache
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman_internet_security_pro.Form1.resources
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman_internet_security_pro.Properties.Resources.resources
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman internet security pro.csproj.GenerateResource.cache
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman internet security pro.exe
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman internet security pro.pdb
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman_internet_security_pro.Scan.resources
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman_internet_security_pro.Register.resources
+C:\Users\Harshi\source\repos\goldman internet security pro\bin\Debug\goldman internet security pro.exe.manifest
+C:\Users\Harshi\source\repos\goldman internet security pro\bin\Debug\goldman internet security pro.application
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman internet security pro.exe.manifest
+C:\Users\Harshi\source\repos\goldman internet security pro\obj\Debug\goldman internet security pro.application
